@@ -17,9 +17,5 @@ This project showcases an **visualization** of the **Delhi Metro network**.
 - **Data Visualization** – Color-coded metro lines and accessibility highlights  
 
 
-## 🔍 Future Enhancements  
-- **Add real-time metro data (if available)**  
-- **Integrate Google Maps API for live station updates**  
-- **Enhance animations with 3D elements**  
 
 
